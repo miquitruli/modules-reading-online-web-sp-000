@@ -1,3 +1,3 @@
 module Dance
-  
+
 end
